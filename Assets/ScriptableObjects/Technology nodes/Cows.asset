@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c32d57276e73f7499088d4a7f63020d, type: 3}
+  m_Name: Cows
+  m_EditorClassIdentifier: 
+  code: CowUnlock
+  displayName: Cow
+  picture: {fileID: 21300000, guid: a9a3810731a63544e9dfdfceab29d192, type: 3}
+  cost: 4
+  weight: 90
